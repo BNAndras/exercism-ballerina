@@ -347,6 +347,14 @@
         "difficulty": 2
       },
       {
+        "slug": "luhn",
+        "name": "Luhn",
+        "uuid": "46c4e314-f201-4314-b3f0-5bd5d3ae128d",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "raindrops",
         "name": "Raindrops",
         "uuid": "14e73462-432f-4af2-a77b-fcb036639573",
